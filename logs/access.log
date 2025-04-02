@@ -1,0 +1,2 @@
+146.75.187.10 - - [02/Apr/2025:06:25:36 +0000] "GET /install.php HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15"
+146.75.187.10 - - [02/Apr/2025:06:25:42 +0000] "GET /wp-admin/install.php HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15"
